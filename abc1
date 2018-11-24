@@ -193,7 +193,6 @@
 [    0.000000] APIC: Switch to symmetric I/O mode setup
 [    0.000000] DMAR: Host address width 39
 [    0.000000] DMAR: DRHD base: 0x000000fed90000 flags: 0x1
-[    0.000000] DMAR: dmar0: reg_base_addr fed90000 ver 1:0 cap d2008c20660462 ecap f010da
 [    0.000000] DMAR: RMRR base: 0x000000ddea8000 end: 0x000000ddeb6fff
 [    0.000000] DMAR-IR: IOAPIC id 2 under DRHD base  0xfed90000 IOMMU 0
 [    0.000000] DMAR-IR: HPET id 0 under DRHD base 0xfed90000
@@ -206,10 +205,10 @@
 [    0.028000] tsc: PIT calibration matches HPET. 1 loops
 [    0.028000] tsc: Detected 3500.210 MHz processor
 [    0.028000] Calibrating delay loop (skipped), value calculated using timer frequency.. 7000.42 BogoMIPS (lpj=14000840)
-[    0.028000] pid_max: default: 32768 minimum: 301
+adasdasdasdas    0.028000] pid_max: default: 32768 minimum: 301
 [    0.028000] Security Framework initialized
 [    0.028000] Yama: becoming mindful.
-[    0.028000] AppArmor: AppArmor initialized
+[    0.028000dasdasd] AppArmor: AppArmor initialized
 [    0.035472] Dentry cache hash table entries: 4194304 (order: 13, 33554432 bytes)
 [    0.037320] Inode-cache hash table entries: 2097152 (order: 12, 16777216 bytes)
 [    0.037831] Mount-cache hash table entries: 65536 (order: 7, 524288 bytes)
